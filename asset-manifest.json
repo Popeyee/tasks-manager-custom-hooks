@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-manager-custom-hooks/static/css/main.a27f4ea7.css",
+    "main.js": "/tasks-manager-custom-hooks/static/js/main.f082fbc8.js",
+    "index.html": "/tasks-manager-custom-hooks/index.html",
+    "main.a27f4ea7.css.map": "/tasks-manager-custom-hooks/static/css/main.a27f4ea7.css.map",
+    "main.f082fbc8.js.map": "/tasks-manager-custom-hooks/static/js/main.f082fbc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a27f4ea7.css",
+    "static/js/main.f082fbc8.js"
+  ]
+}
